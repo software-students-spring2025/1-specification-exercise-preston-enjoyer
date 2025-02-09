@@ -30,9 +30,8 @@ Write details about your stakeholder(s) and their goals and furstrations into th
 
 ## Product Vision Statement
 
-Once your stakeholder has been interviewed, your team and they must settle on a foundational **Product Vision Statement** - a single sentence explaining the main concept of the app. The rest of your work will be based on this statement.
+The NYU Gym Traffic Tracker is a user-friendly app that provides real-time gym occupancy data across NYU’s fitness facilities, allowing students and staff to plan their workouts efficiently, minimize wait times, and enhance their fitness experience.
 
-Write this Product Vision Statement into the `README.md` file in the appropriate place.
 
 ## User Requirements
 
