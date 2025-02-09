@@ -15,7 +15,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+The NYU Gym Traffic Tracker is a user-friendly app that provides real-time gym occupancy data across NYU’s fitness facilities, allowing students and staff to plan their workouts efficiently, minimize wait times, and enhance their fitness experience.
 
 ## User Requirements
 
