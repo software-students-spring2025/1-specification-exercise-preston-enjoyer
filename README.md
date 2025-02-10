@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Andy Cabindol: https://github.com/andycabindol
-Preston Lee: https://github.com/prestonglee0805
-Aaqila Patel: https://github.com/aaqilap
-Edwin Chen: https://github.com/Eracks1012
+- Andy Cabindol: https://github.com/andycabindol
+- Preston Lee: https://github.com/prestonglee0805
+- Aaqila Patel: https://github.com/aaqilap
+- Edwin Chen: https://github.com/Eracks1012
 
 ## Stakeholders DONE
 
