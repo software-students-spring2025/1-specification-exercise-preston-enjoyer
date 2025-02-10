@@ -115,4 +115,4 @@ As a powerlifter at NYU, I want to know the availability of squat racks and plat
 
 ## Clickable Prototype
 
-https://www.figma.com/proto/G3dVGWP1LRRPfibWZJE9xy/preston-enjoyers?node-id=71-268&t=RpABlqfmCwVkhQAj-1
+https://www.figma.com/proto/G3dVGWP1LRRPfibWZJE9xy/preston-enjoyers?node-id=99-182&t=uu6Z6RLFM3blH77w-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=99%3A182
