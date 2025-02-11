@@ -109,7 +109,7 @@ Activity Diagram for User Story 1: \
 As a power lifter at NYU, I want to be able to check which gym has a open squat racks.![screenshot](UML1.png)
 
 Activity Diagram for User Story 2: \
-As a gym-goer, I would like to set notifications for specific equipment so I know when the optimal time for me to get a workout in is .\
+As a gym-goer, I would like to set notifications for specific equipment so I know when the optimal time for me to get a workout in is.\
 ![Alt text](./UML2.png)
 
 
