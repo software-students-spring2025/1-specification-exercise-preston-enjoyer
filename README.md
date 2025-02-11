@@ -4,12 +4,12 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Andy Cabindol: https://github.com/andycabindol
-Preston Lee: https://github.com/prestonglee0805
-Aaqila Patel: https://github.com/aaqilap
-Edwin Chen: https://github.com/Eracks1012
+- Andy Cabindol: https://github.com/andycabindol
+- Preston Lee: https://github.com/prestonglee0805
+- Aaqila Patel: https://github.com/aaqilap
+- Edwin Chen: https://github.com/Eracks1012
 
-## Stakeholders DONE
+## Stakeholders 
 
 Stakeholder Interview #1
 
@@ -76,7 +76,7 @@ Stakeholder Interview #2
 
 
 
-## Product Vision Statement DONE
+## Product Vision Statement 
 
 The NYU Gym Traffic Tracker is a user-friendly app that provides real-time gym occupancy data across NYU’s fitness facilities, allowing students and staff to plan their workouts efficiently, minimize wait times, and enhance their fitness experience.
 
@@ -115,4 +115,4 @@ As a powerlifter at NYU, I want to know the availability of squat racks and plat
 
 ## Clickable Prototype
 
-https://www.figma.com/proto/G3dVGWP1LRRPfibWZJE9xy/preston-enjoyers?node-id=71-268&t=RpABlqfmCwVkhQAj-1
+https://www.figma.com/proto/G3dVGWP1LRRPfibWZJE9xy/preston-enjoyers?node-id=99-182&t=uu6Z6RLFM3blH77w-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=99%3A182
