@@ -110,7 +110,8 @@ As a power lifter at NYU, I want to be able to check which gym has a open squat 
 
 Activity Diagram for User Story 2: \
 As a gym-goer, I would like to set notifications for specific equipment so I know when the optimal time for me to get a workout in is .\
-![screenshot](UML2.png)
+![Alt text](./UML2.png)
+
 
 ## Clickable Prototype
 
