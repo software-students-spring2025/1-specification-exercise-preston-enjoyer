@@ -106,11 +106,10 @@ The NYU Gym Traffic Tracker is a user-friendly app that provides real-time gym o
 ## Activity Diagrams
 
 Activity Diagram for User Story 1: \
-As an NYU student, I want to see the current occupancy levels of all NYU gyms so that I can choose the least crowded one\
-![screenshot](UML1.png)
+As a power lifter at NYU, I want to be able to check which gym has a open squat racks.![screenshot](UML1.png)\
 
 Activity Diagram for User Story 2: \
-As a powerlifter at NYU, I want to know the availability of squat racks and platforms so that I can schedule my training sessions without long delays.\
+As a gym-goer, I would like to set notifications for specific equipment so I know when the optimal time for me to get a workout in is .\
 ![screenshot](UML2.png)
 
 ## Clickable Prototype
